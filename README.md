@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moganesann&label=Profile%20views&color=0e75b6&style=flat" alt="moganesann" /> </p>
 
-- 🔭 I’m currently interning at **Finexus Group as a Front-End Developer.**
-
 - 👯 I recently completed my studies **in Bachelor of Computer Science (Software Engineering) with Honours from Universiti Malaysia Pahang.**
+
+- 🔭 I interned at **Finexus Group as a Front-End Developer.**
 
 - 💬 Ask me about **Android, React Native, Typescript, Appium**
 
