@@ -8,7 +8,7 @@
 
 - 🔭 I interned at **Finexus Group as a Front-End Developer.**
 
-- 💬 Ask me about **Android, React Native, Typescript, Appium**
+- 💬 Ask me about **Android, React Native, Typescript, Java, React, Appium**
 
 - 📫 How to reach me **vmoganesan17@gmail.com**
 
