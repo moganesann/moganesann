@@ -1,14 +1,16 @@
 <h1 align="center">Hi 👋, I'm Moganesan Veragu</h1>
-<h3 align="center">A passionate web developer from Malaysia.</h3>
+<h3 align="center">A passionate full stack developer from Malaysia.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moganesann&label=Profile%20views&color=0e75b6&style=flat" alt="moganesann" /> </p>
+
+- 👨🏻‍💻 I am a **Full Stack Developer at eSolved MSC Sdn Bhd or known as InstanteStore**, where I contribute to building cutting-edge web applications and solutions. My expertise includes **Coldfusion, Javascript, HTML and CSS.**
 
 - 👯 I recently completed my studies **in Bachelor of Computer Science (Software Engineering) with Honours from Universiti Malaysia Pahang.**
 
 - 🔭 I interned at **Finexus Group as a Front-End Developer.**
 
-- 💬 Ask me about **Android, React Native, Typescript, Java, React, Appium**
+- 💬 Ask me about **Coldfusion, React Native, Typescript, Javascript, Java, React, HTML, CSS, Appium**
 
 - 📫 How to reach me **vmoganesan17@gmail.com**
 
